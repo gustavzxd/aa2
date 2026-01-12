@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "data": "2026-01-12",
+    "hora": "00:15:13",
+    "tipo": "ad",
+    "prioridade": "Baixa",
+    "endereco": "Trecho da estrada (-14.979280, -54.052734)",
+    "lat": -14.97928,
+    "lon": -54.052734
+  },
+  {
+    "id": 2,
+    "data": "2026-01-12",
+    "hora": "00:15:20",
+    "tipo": "bloqtb",
+    "prioridade": "Baixa",
+    "endereco": "Ponto da rodovia (-28.258425, -51.503906)",
+    "lat": -28.258425,
+    "lon": -51.503906
+  }
+]

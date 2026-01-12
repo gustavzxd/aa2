@@ -1,0 +1,16 @@
+{"data": "2026-01-12", "hora": "00:20:35", "usuario": "gustavo", "acao": "Exceção Não Tratada", "raw": "{\n  \"error\": \"404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"\n}"}
+{"data": "2026-01-12", "hora": "00:22:15", "usuario": "gustavo", "acao": "Logout Realizado", "raw": "{}"}
+{"data": "2026-01-12", "hora": "00:22:16", "usuario": "gustavo", "acao": "Login Realizado", "raw": "{\n  \"ip\": \"127.0.0.1\"\n}"}
+{"data": "2026-01-12", "hora": "00:22:31", "usuario": "gustavo", "acao": "Logout Realizado", "raw": "{}"}
+{"data": "2026-01-12", "hora": "00:23:41", "usuario": "gustavo", "acao": "Login Realizado", "raw": "{\n  \"ip\": \"127.0.0.1\"\n}"}
+{"data": "2026-01-12", "hora": "00:23:57", "usuario": "gustavo", "acao": "Logout Realizado", "raw": "{}"}
+{"data": "2026-01-12", "hora": "00:24:04", "usuario": "gustavo", "acao": "Login Realizado", "raw": "{\n  \"ip\": \"127.0.0.1\"\n}"}
+{"data": "2026-01-12", "hora": "00:25:06", "usuario": "gustavo", "acao": "Logout Realizado", "raw": "{}"}
+{"data": "2026-01-12", "hora": "00:26:53", "usuario": "gustavo", "acao": "Login Realizado", "raw": "{\n  \"ip\": \"127.0.0.1\"\n}"}
+{"data": "2026-01-12", "hora": "00:26:53", "usuario": "gustavo", "acao": "Exceção Não Tratada", "raw": "{\n  \"error\": \"404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"\n}"}
+{"data": "2026-01-12", "hora": "00:27:13", "usuario": "gustavo", "acao": "Exceção Não Tratada", "raw": "{\n  \"error\": \"404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"\n}"}
+{"data": "2026-01-12", "hora": "00:27:42", "usuario": "gustavo", "acao": "Exceção Não Tratada", "raw": "{\n  \"error\": \"404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"\n}"}
+{"data": "2026-01-12", "hora": "00:27:46", "usuario": "gustavo", "acao": "Exceção Não Tratada", "raw": "{\n  \"error\": \"404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"\n}"}
+{"data": "2026-01-12", "hora": "00:27:56", "usuario": "gustavo", "acao": "Exceção Não Tratada", "raw": "{\n  \"error\": \"404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"\n}"}
+{"data": "2026-01-12", "hora": "00:29:00", "usuario": "gustavo", "acao": "Logout Realizado", "raw": "{}"}
+{"data": "2026-01-12", "hora": "00:29:50", "usuario": "gustavo", "acao": "Login Realizado", "raw": "{\n  \"ip\": \"127.0.0.1\"\n}"}
